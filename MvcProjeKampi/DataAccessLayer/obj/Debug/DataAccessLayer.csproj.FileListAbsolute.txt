@@ -15,3 +15,4 @@ D:\csharp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\csharp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 D:\csharp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 D:\csharp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\csharp\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer.resources
